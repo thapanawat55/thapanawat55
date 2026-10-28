@@ -1,74 +1,54 @@
-# Thapanawat Kyankar
-**IT Professional / IT Specialist**
+<div align="center">
 
-📍 ต.ปากน้ำ อ.เมือง จ.กระบี่ ประเทศไทย | 📱 061-273-4962 | ✉️ [อีเมลของคุณ]  
-🔗 [LinkedIn Profile](https://linkedin.com/in/yourprofile) | 🌐 [Portfolio Website](https://yourwebsite.com) | 💻 [GitHub Profile](https://github.com/yourusername)
+# 👨‍💻 Thapanawat [นามสกุล]
+### **IT Professional | System Administrator | IT Support Specialist**
+
+📍 **ต.ปากน้ำ อ.เมือง จ.กระบี่, ประเทศไทย**  
+📱 **061-273-4962** | ✉️ **[อีเมลของคุณ@email.com]**
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
+[![Portfolio](https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white)](https://yourwebsite.com)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/thapanawat55)
 
 ---
 
-## 📝 Executive Summary
-นักวิชาการ/เจ้าหน้าที่ด้านเทคโนโลยีสารสนเทศ (IT Professional) ที่มีความเชี่ยวชาญในการบริหารจัดการระบบเครือข่าย การดูแลรักษาโครงสร้างพื้นฐานไอที (IT Infrastructure) และการสนับสนุนผู้ใช้งาน (IT Support) มีความมุ่งมั่นในการนำเทคโนโลยีมาประยุกต์ใช้เพื่อเพิ่มประสิทธิภาพการทำงานขององค์กร ปรับปรุงกระบวนการทำงานให้เป็นระบบ และแก้ไขปัญหาทางเทคนิคได้อย่างรวดเร็ว
+</div>
+
+## 📌 About Me (ประวัติโดยย่อ)
+> **"มุ่งมั่นพัฒนาระบบเทคโนโลยีสารสนเทศเพื่อขับเคลื่อนองค์กรอย่างมีประสิทธิภาพ"**
+> 
+> นักวิชาการและเจ้าหน้าที่ด้านเทคโนโลยีสารสนเทศ (IT Professional) ที่มีความเชี่ยวชาญในการบริหารจัดการระบบเครือข่าย การดูแลรักษาโครงสร้างพื้นฐานไอที (IT Infrastructure) และการให้บริการสนับสนุนผู้ใช้งาน (IT Support) พร้อมที่จะนำทักษะทางเทคนิค การแก้ปัญหาเฉพาะหน้า และกระบวนการทำงานที่เป็นระบบ มาช่วยให้ระบบไอทีขององค์กรทำงานได้อย่างเสถียรและปลอดภัยสูงสุด
 
 ---
 
-## 🛠 Skills & Technical Competencies
+## 🛠️ Tech Stack & Skills
 
-| หมวดหมู่ | รายการทักษะ |
-| :--- | :--- |
-| **System & Servers** | Windows Server, Linux (Ubuntu/Debian), Active Directory, Group Policy, VMware |
-| **Networking & Security** | TCP/IP, DNS, DHCP, VPN, Firewall, Router/Switch Configuration, Network Monitoring |
-| **Cloud & Tools** | Microsoft 365 Admin, AWS (Basic), Docker, Git, Ticketing Systems (Jira/Zendesk) |
-| **Development & Database** | Python, Shell Scripting, SQL, MySQL, PostgreSQL, HTML/CSS |
-| **Soft Skills** | Problem Solving, ITIL Best Practices, User Training, Communication, Team Collaboration |
+### **System & Servers**
+![Windows Server](https://img.shields.io/badge/Windows_Server-0078D6?style=flat-square&logo=windows&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white)
+![VMware](https://img.shields.io/badge/VMware-607078?style=flat-square&logo=vmware&logoColor=white)
+![Active Directory](https://img.shields.io/badge/Active_Directory-0078D4?style=flat-square&logo=windows&logoColor=white)
+
+### **Networking & Security**
+![Cisco](https://img.shields.io/badge/Cisco-1976D2?style=flat-square&logo=cisco&logoColor=white)
+![Wi-Fi & LAN](https://img.shields.io/badge/Networking-TCP%2FIP_--_DNS_--_DHCP-00599C?style=flat-square)
+![Firewall](https://img.shields.io/badge/Security-Firewall_--_VPN-D32F2F?style=flat-square)
+
+### **Cloud & Management Tools**
+![Microsoft 365](https://img.shields.io/badge/Microsoft_365-D83B01?style=flat-square&logo=microsoft-office&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white)
 
 ---
 
 ## 💼 Work Experience
 
-### **IT Support Specialist / IT System Administrator** | [ชื่อบริษัท/องค์กร]
-*[เดือน/ปี เริ่มต้น] – [ปัจจุบัน หรือ เดือน/ปี สิ้นสุด]* | *จ.กระบี่, ประเทศไทย*
+### 🟢 **IT Support Specialist / IT System Administrator**
+**[ชื่อบริษัท / องค์กรปัจจุบัน]** | *[เดือน/ปี เริ่มต้น] – ปัจจุบัน*  
+*📍 จ.กระบี่, ประเทศไทย*
 
-* บริหารจัดการและดูแลรักษาระบบเครือข่าย (LAN/WAN, Wi-Fi, Firewall) ให้มีความเสถียรและปลอดภัย และเข้าถึงได้ตลอด 99.9%
-* ให้คำปรึกษาและแก้ไขปัญหาทางเทคนิค (Troubleshooting) ทั้งด้าน Hardware, Software และ Network แก่ผู้ใช้งานในองค์กรกว่า [จำนวน] คน
-* จัดการระบบผู้ใช้งานด้วย Microsoft Active Directory, Google Workspace และ Microsoft 365 (User Onboarding/Offboarding)
-* จัดทำเอกสารคู่มือการใช้งานระบบ (IT Standard Operating Procedures - SOP) และระบบสำรองข้อมูล (Backup & Recovery)
-
-### **IT Support Technician** | [ชื่อบริษัท/องค์กรก่อนหน้า]
-*[เดือน/ปี เริ่มต้น] – [เดือน/ปี สิ้นสุด]* | *[เมือง, ประเทศ]*
-
-* ติดตั้ง ตรวจสอบ และบำรุงรักษาอุปกรณ์ไอที คอมพิวเตอร์ ปริ้นเตอร์ และอุปกรณ์ต่อพ่วงภายในองค์กร
-* บริหารจัดการระบบ Helpdesk Ticketing ปิดเคสแก้ไขปัญหาได้ทันตามเงื่อนไข SLA มากกว่า 95%
-* ช่วยประสานงานกับ Vendor ภายนอกในการจัดซื้อและซ่อมบำรุงอุปกรณ์ IT
-
----
-
-## 🚀 Key Projects
-
-#### 🔹 [ชื่อโปรเจกต์ เช่น Office Network Infrastructure Upgrade]
-* **รายละเอียด:** ดำเนินการอัปเกรดระบบเครือข่ายภายในสำนักงาน ปรับปรุงประสิทธิภาพ Wi-Fi และติดตั้งระบบ Firewall ใหม่เพื่อเพิ่มความปลอดภัยของข้อมูล
-* **บทบาท:** ผู้ดูแลหลักในการกำหนดค่าอุปกรณ์และทดสอบระบบ
-
-#### 🔹 [ชื่อโปรเจกต์ เช่น Cloud Migration & Backup Solution]
-* **รายละเอียด:** วางระบบสำรองข้อมูลอัตโนมัติขึ้นระบบ Cloud และย้ายข้อมูลอีเมลขององค์กรไปยัง Microsoft 365
-
----
-
-## 🎓 Education
-
-* **ปริญญาตรี วิทยาศาสตรบัณฑิต สาขาเทคโนโลยีสารสนเทศ (B.Sc. in Information Technology)**  
-  [ชื่อมหาวิทยาลัย] | *[ปีที่เริ่ม] – [ปีที่จบ]*
-
----
-
-## 📜 Certifications & Achievements
-
-* **CompTIA Network+ / Security+** (*[ปี ค.ศ.]*)
-* **Microsoft Certified: Azure Fundamentals (AZ-900)** (*[ปี ค.ศ.]*)
-* **Cisco Certified Network Associate (CCNA)** (*[ปี ค.ศ.]*)
-
----
-
-## 🗣 Languages
-
-* **Thai:** Native (ภาษาแม่)
-* **English:** Professional Working Proficiency (TOEIC: [คะแนน])
+* 🌐 **Network Management:** บริหารจัดการและดูแลรักษาระบบเครือข่าย (LAN/WAN, Wi-Fi, Firewall) ให้มีความเสถียรและปลอดภัย ใช้งานได้ต่อเนื่อง 99.9%
+* 🛠️ **
