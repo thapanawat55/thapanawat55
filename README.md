@@ -1,4 +1,4 @@
-# Thapanawat [นามสกุล]
+# Thapanawat KYANKAR
 **IT Professional / IT Specialist**
 
 📍 ต.ปากน้ำ อ.เมือง จ.กระบี่ ประเทศไทย | 📱 061-273-4962 | ✉️ [อีเมลของคุณ]  
