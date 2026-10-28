@@ -1,10 +1,10 @@
 <div align="center">
 
-# 👨‍💻 Thapanawat [นามสกุล]
+# 👨‍💻 Thapanawat Kyakran
 ### **IT Professional | System Administrator | IT Support Specialist**
 
 📍 **ต.ปากน้ำ อ.เมือง จ.กระบี่, ประเทศไทย**  
-📱 **061-273-4962** | ✉️ **[อีเมลของคุณ@email.com]**
+📱 **061-273-4962** | ✉️ **thapanawat08@email.com**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
 [![Portfolio](https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white)](https://yourwebsite.com)
