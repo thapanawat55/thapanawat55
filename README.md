@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👨‍💻 Thapanawat [นามสกุล]
+# 👨‍💻 Thapanawat Kyankar
 ### **IT Professional | System Administrator | IT Support Specialist**
 
 📍 **ต.ปากน้ำ อ.เมือง จ.กระบี่, ประเทศไทย**  
